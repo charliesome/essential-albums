@@ -4,6 +4,7 @@
 ----------
 | Artist  | Album  | Recommended by | Rating   |
 |---|---|---|---|
+| Girl Talk | All Day | @samlambert | :star::star::star::star::star: |
 |   |   |   |
 
 ### Recommended
@@ -18,7 +19,6 @@
 | Common | Nobody's Smiling | @samlambert |
 | Frightened Rabbit | Winter of Mixed Drinks | @samlambert |
 | Future Islands | Singles | @samlambert |
-| Girl Talk | All Day | @samlambert |
 | Joy Division | Unknown Pleasures | @samlambert |
 | Manchester Orchestra | Mean Everything to Nothing | @samlambert |
 | Misfits | Static Age | @samlambert |
